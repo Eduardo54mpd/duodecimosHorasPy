@@ -2,7 +2,8 @@
 <p>
   Este repositório contém os seguintes arquivos:
   <ul>
-    <li>Aplicação do código PyGame (com base na conversão 24h)</li>
+    <li>Algoritmo com base na conversão 24h</li>
     <li>Algoritmo com base na conversão AM/PM</li>
+    <li>Aplicação do código PyGame (com base na conversão 24h)</li>
   </ul>
 </p>
